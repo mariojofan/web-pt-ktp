@@ -71,7 +71,7 @@
                 <div className='w-full lg:w-3/6 py-6 text-center flex justify-center'>
                     <a href='/'>
                             <Image 
-                                src={avatar1?.uri}
+                                src={avatar1?.uri} // Image 1
                                 alt='/images/Illustrations/illustration1.svg'
                                 // src={encodeURIComponent(data.Illustration1)}
                                 width={600} 
